@@ -1,0 +1,275 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.nav-item{
+	margin-bottom: 12px;
+}
+.nav-item a:hover {
+	color: #ff8c00;
+	text-decoration: none;
+}
+.nav-item a:hover {
+	border-bottom:1px solid #ff8c00;
+	
+}
+
+.section {
+	background-image: url(capture-image.jpg);
+	background-size: cover;
+	background-attachment: scroll;
+	padding: 208px 0px;
+}
+.splash {
+	border-bottom:6px solid yellowgreen;
+	
+}
+
+.No {
+	padding: 19px 0px;
+} 
+.push {
+	padding-left:236px;
+	margin-top: -123px;
+}
+.to h1 {
+	text-transform: uppercase;
+	color:black;
+	font-weight: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 75px;
+}
+.more {
+	color: white;
+	font-size: 30px;
+	line-height: 39px;
+	font-family: 'Roboto', sans-serif;
+}
+.play {
+	background: #ff8c00;
+	border-radius:none;
+	padding: 13px 0px 9px 30px;
+	margin-right: 23px;
+}
+.btn2 {
+	font-size: 18px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+.navbar-toggler-icon{
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(9,55,244, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.section2 {
+	background: white;
+	padding: 76px 0px;
+}
+.section3 {
+	margin :0px;
+}
+.img-responsive {
+	width: 63px;
+	height:65px;
+}
+.back {
+	background-color:#000000db;
+}
+
+.message h4 {
+	color: #ff8c00;
+	font-family: 'poetsenoneregular';
+	padding-top: 23px;
+	margin-left: 93px;
+}
+.cross img {
+	font-size: 23px;
+	color: green;
+	margin-top:3px;
+	margin-right: 23px; 
+}
+
+.message {
+	margin-top: -34px;
+}
+.message p {
+	padding-left: 99px;
+	font-size: 16px;
+	color: #666666;
+	font-weight: 400;
+}
+.move {
+margin-top: 34px;
+}
+.section4 {
+	background-image: url(preparation.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 100px 0px
+}
+.section5 {
+	margin: 0;
+}
+.create h4 {
+	color: white;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 600;
+	font-family: 'poetsenoneregular';
+	margin-bottom: 22px;
+	padding-left: 102px;
+}
+.win {
+	color: white;
+	font-size: 19px;
+	font-family: 'Roboto', sans-serif;
+}
+.slide {
+	padding-left: 474px;
+.sign {
+	padding-left: -23px;
+}
+.section6 {
+	background: #ff8c00;
+	padding: 66px 0px;
+}
+.section7 {
+	margin: 0px;
+}
+.run {
+	margin-left: 45px;
+}
+.nice a {
+	padding:0px 13px;
+}
+.your p {
+	color:white;
+	display: inline-block;
+	font-size: 35px;
+	font-family: 'poetsenoneregular';
+	font-weight: bold;
+}
+.your a:hover {
+	color: white;
+}
+
+.earning {
+	background: #4d4d4de6;
+	border-radius: 0px;
+	float: right;
+	padding: 15px 13px;
+}
+.earning a {
+	color: #ff8c00;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+.earning:hover {
+	background: black;
+	color:  #ff8c00;
+}
+.btn-succes a:hover {
+	background: black;
+	color:! important #333;
+	text-decoration: none;
+}
+.section8 {
+	padding: 14px 0px;
+	background: #364247;
+}
+.section9 {
+	margin:0px;
+}
+
+.telephone a {
+	color: white;
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 19px;
+	margin-left: 34px;
+	display: inline-block;
+}
+.play a {
+	color: white;
+	text-decoration: none;
+	font-size: 23px;
+}
+.reduce {
+	padding-top: 12px;
+}
+.condition p {
+	color: #c2c0c0;
+	font-style: 19px;
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	padding-top: 12px;
+}
+.activate p {
+	color: white;
+	margin-left:34px;
+}
+hr {
+	border: 3px solid #ff8c00 ! important;
+	width: 43px;
+	text-align: center;
+	padding-left: 45px;
+}
+
+.escape {
+	padding-bottom: 44px;
+	margin-top: -47px;
+}
+.escape h4{
+	color: white;
+}
+.win {
+	padding-bottom: 64px;
+}
+.side {
+	padding-right:34px; 
+	margin-top: 45px;
+}
+.underline{
+
+}
+
+.section9 {
+	background: black;
+	padding: 12px 0px;
+}
+.section10 {
+	margin: 0px;
+}
+.come {
+	color: white;
+}
+#okay {
+	margin-left: 34px;
+}
+.to h1 {
+	font-size: 56px;
+}
+.more {
+	color:black;
+	font-size: 23px;
+}
+.yellow {
+	padding-top: 24px;;
+}
+
+.follow li {
+	margin-left:100px;
+	margin-top: 12px;
+}
+.slider li {
+	margin-left: 381px;
+	margin-top:-40px;
+}
+.signal {
+	padding: 9px 36px;
+}
+.start {
+	color: white;
+}
