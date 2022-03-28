@@ -16,7 +16,7 @@ body {
 }
 
 .section {
-	background-image: url(capture-image.jpg);
+	background-image: url(images/capture-image.jpg);
 	background-size: cover;
 	background-attachment: scroll;
 	padding: 208px 0px;
@@ -63,7 +63,7 @@ body {
 }
 
 .section2 {
-	background: white;
+	background: rgba(0, 0, 0, 0.02);
 	padding: 76px 0px;
 }
 .section3 {
@@ -103,10 +103,13 @@ body {
 margin-top: 34px;
 }
 .section4 {
-	background-image: url(preparation.jpg);
+	background-image: url(images/preparation.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	padding: 100px 0px
+}
+.seal {
+	margin-top: -36px;
 }
 .section5 {
 	margin: 0;
