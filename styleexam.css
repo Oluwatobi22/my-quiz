@@ -180,8 +180,8 @@ margin-top: 34px;
 }
 .btn-succes a:hover {
 	background: black;
-	color:! important #333;
-	text-decoration: none;
+	color:!important #333;
+	text-decoration:none;
 }
 .section8 {
 	padding: 14px 0px;
@@ -190,7 +190,6 @@ margin-top: 34px;
 .section9 {
 	margin:0px;
 }
-
 .telephone a {
 	color: white;
 	list-style-type: none;
@@ -239,10 +238,6 @@ hr {
 	padding-right:34px; 
 	margin-top: 45px;
 }
-.underline{
-
-}
-
 .section9 {
 	background: black;
 	padding: 12px 0px;
