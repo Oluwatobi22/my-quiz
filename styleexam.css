@@ -83,6 +83,7 @@ body {
 	font-family: 'poetsenoneregular';
 	padding-top: 23px;
 	margin-left: 93px;
+	text-align: justify;
 }
 .cross img {
 	font-size: 23px;
@@ -91,14 +92,13 @@ body {
 	margin-right: 23px; 
 }
 
-.message {
-	margin-top: -34px;
-}
+
 .message p {
 	padding-left: 99px;
 	font-size: 16px;
 	color: #666666;
 	font-weight: 400;
+	text-align: justify;
 }
 .move {
 margin-top: 34px;
@@ -129,9 +129,9 @@ margin-top: 34px;
 	font-size: 19px;
 	font-family: 'Roboto', sans-serif;
 }
-.slide {
+/* .slide {
 	padding-left: 474px;
-}
+} */
 .sign {
 	padding-left: -23px;
 }
